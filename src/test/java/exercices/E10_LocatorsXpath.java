@@ -47,7 +47,7 @@ public class E10_LocatorsXpath {
         driver.findElement(By.xpath("//button[@id='gc-mini-picker-amount-1']")).click();
 
         //urun ucretinin 25 dolar oldugunu test edin
-        
+
 
 
     }
